@@ -15,13 +15,13 @@ This log is not just about coding—it’s about celebrating every step of an en
 Each day’s log is simple and clean:
 
 ```markdown
-## Jan. 02, 2025
+## January 02, 2025 (Wed)
 
 - **22:41**: Worked on a `Secret Project`
 - Tweaked my dot files
 - Started researching for a new project!
 
-## Jan. 01, 2025
+## January 01, 2025 (Tue)
 
 - **12:34**: Edited `Intro` part of the `PadPad` video
 - **02:45**: Created `Thumbnail`
